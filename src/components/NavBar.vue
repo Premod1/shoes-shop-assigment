@@ -1,19 +1,20 @@
 <script setup>
-import { useRouter } from 'vue-router';
+import { useRouter } from 'vue-router'
 
-const router = useRouter();
+const router = useRouter()
 
 function signup() {
-  router.push('/signup');
+  router.push('/signup')
 }
 
 function login() {
-  router.push('/login');
+  router.push('/login')
 }
 
 function ViewCart() {
-  router.push('/cart');
+  router.push('/cart')
 }
+
 </script>
 <template>
   <header class="text-gray-200 body-font bg-black">
@@ -31,7 +32,7 @@ function ViewCart() {
         >
           <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
         </svg>
-        <span class="ml-3 text-xl">Fashion Garment</span>
+        <span class="ml-3 text-xl">Shoes Shop</span>
       </a>
       <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
         <RouterLink class="mr-5 hover:text-gray-500" to="/">Home</RouterLink>
@@ -40,7 +41,9 @@ function ViewCart() {
         <RouterLink class="mr-5 hover:text-gray-500" to="/contact">Contact</RouterLink>
       </nav>
       <button
-        class="inline-flex items-center bg-blue-400 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0 mr-5" @click="login">
+        class="inline-flex items-center bg-blue-400 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0 mr-5"
+        @click="login"
+      >
         LOGIN
         <svg
           fill="none"
@@ -56,7 +59,9 @@ function ViewCart() {
       </button>
 
       <button
-        class="inline-flex items-center bg-blue-400 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0 mr-5" @click="signup">
+        class="inline-flex items-center bg-blue-400 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0 mr-5"
+        @click="signup"
+      >
         SIGN UP
         <svg
           fill="none"
@@ -72,7 +77,9 @@ function ViewCart() {
       </button>
 
       <button
-        class="inline-flex items-center bg-blue-400 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0 mr-5" @click="ViewCart">
+        class="inline-flex items-center bg-blue-400 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0 mr-5"
+        @click="ViewCart"
+      >
         View Cart
         <svg
           fill="none"
