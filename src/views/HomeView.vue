@@ -10,7 +10,7 @@ import HeaderSmall from '@/components/HeaderSmall.vue';
   <div>
     <HeaderSmall/>
     <ProductCategory />
-    <ProductItem />
+    <ProductItem/>
     <hr />
     <FooterSmall />
   </div>
