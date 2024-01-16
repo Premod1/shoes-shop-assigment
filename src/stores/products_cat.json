@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "imageSrc": "https://cdn.images.express.co.uk/img/dynamic/130/590x/1850194_1.jpg",
+    "category": "CATEGORY",
+    "title": "T Short"
+  },
+  {
+    "id": 2,
+    "imageSrc": "https://www.shutterstock.com/image-photo/stack-colorful-clothes-pile-clothing-600nw-2203081765.jpg",
+    "category": "CATEGORY",
+    "title": "Frock"
+  },
+  {
+    "id": 3,
+    "imageSrc": "https://cdn.images.express.co.uk/img/dynamic/130/590x/1850194_1.jpg",
+    "category": "CATEGORY",
+    "title": "T Short"
+  },
+  {
+    "id": 4,
+    "imageSrc": "https://www.shutterstock.com/image-photo/stack-colorful-clothes-pile-clothing-600nw-2203081765.jpg",
+    "category": "CATEGORY",
+    "title": "Frock"
+  }
+]

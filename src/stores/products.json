@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "imageSrc": "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "CATEGORY",
+    "title": "T Shirt",
+    "price": "$20.00"
+  },
+  {
+    "id": 2,
+    "imageSrc": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "CATEGORY",
+    "title": "Nike",
+    "price": "$16.00"
+  },
+  {
+    "id": 3,
+    "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR99aTCxTqUC09ujw6R3spndvaiFGrr_RlGAGpcam3gshe7uApm4T33p-rXby7LgMNaRf8&usqp=CAU",
+    "category": "CATEGORY",
+    "title": "Gucci",
+    "price": "$20.00"
+  },
+  {
+    "id": 4,
+    "imageSrc": "https://www.travelandleisure.com/thmb/WB2-v-_QdPmSn70K4nFiTnYrFr8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/wrinkle-free-travel-clothes-tout-4a49a36a61494397a0a11bd7da1aa185.jpg",
+    "category": "CATEGORY",
+    "title": "Louis Vuitton",
+    "price": "$16.00"
+  },
+  {
+    "id": 5,
+    "imageSrc": "https://unboundmerino.com/cdn/shop/files/mega-menu-our-promise-page_1440x.jpg?v=1667743361",
+    "category": "CATEGORY",
+    "title": "Dior",
+    "price": "$20.00"
+  },
+  {
+    "id": 6,
+    "imageSrc": "https://cdn11.bigcommerce.com/s-tp3n4f/images/stencil/500x659/products/11399/25354/IMG_0955__78100.1681319249.JPG?c=2",
+    "category": "CATEGORY",
+    "title": "Balenciaga",
+    "price": "$16.00"
+  },
+  {
+    "id": 7,
+    "imageSrc": "https://static-01.daraz.lk/p/70e4ee14ebb228d490df06a2d2de3fdd.jpg",
+    "category": "CATEGORY",
+    "title": "Versace",
+    "price": "$20.00"
+  },
+  {
+    "id": 8,
+    "imageSrc": "https://i.ebayimg.com/images/g/I0QAAOSwa3hiFySt/s-l1200.webp",
+    "category": "CATEGORY",
+    "title": "Under Armour",
+    "price": "$16.00"
+  },
+  {
+    "id": 9,
+    "imageSrc": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/718J1laiICL._AC_UY1100_.jpg",
+    "category": "CATEGORY",
+    "title": "Reebok",
+    "price": "$20.00"
+  },
+  {
+    "id": 10,
+    "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW8A0YcR0lIniGkRiHCNb0RXgbGXkeJYUHdg&usqp=CAU",
+    "category": "CATEGORY",
+    "title": "Patagonia",
+    "price": "$16.00"
+  }
+]
